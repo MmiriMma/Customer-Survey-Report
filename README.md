@@ -31,7 +31,7 @@ CES SCORE: On a point scale of 1-5, a good CES metric should be on a range of 1-
 
 NPS SCORE: customer recommendation being on the negative is a problem as there is no better advertisement than word of mouth. this colud lead to customer churn. further data research is recommended to understand the expectations and dissapointment of customers.
 
-   ![image](https://github.com/MmiriMma/Customer-Survey-Report/assets/131600050/4036903c-c47b-453b-b528-664302697dbf)width:200px,height:300px
+   ![image](https://github.com/MmiriMma/Customer-Survey-Report/assets/131600050/4036903c-c47b-453b-b528-664302697dbf)
 
 
 
@@ -44,7 +44,7 @@ Feedback Comments : there are two negative reactions(need improvements, average 
 THERE IS A RISK OF CUSTOMER CHURN IF CUSTOMER EXPERIENCE WITH THE BRAND KEEPS MOVING IN THIS DIRECTION. Reaching out to customers especially those with negative reviews and gaining insights into how the brand/product was found wanting is a good start.  And this will also mean to the customers that  their concerns are  being acknowledged and would ignite their hope stlll in the brand. Making them part of the community and keeping them updated about the progress is a  good start.
 
   
-   ![image](https://github.com/MmiriMma/Customer-Survey-Report/assets/131600050/d2ed86be-d408-4579-8e76-f6d13e812395)width:200px,height:300px
+   ![image](https://github.com/MmiriMma/Customer-Survey-Report/assets/131600050/d2ed86be-d408-4579-8e76-f6d13e812395)
 
 
 
